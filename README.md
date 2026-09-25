@@ -4,7 +4,7 @@
 
 Blockchain scalability is a resource and systems problem, not a contest for the largest transactions-per-second number. This book follows transactions and failures end to end across Layer 1, Layer 2, rollups, modular data availability, parallel execution, and consensus. It gives master's students and practitioners worked calculations, explicit security assumptions, threat-model worksheets, benchmark methods, graduate-level exercises, and solution sketches.
 
-[**Read online**](https://neilydhan.github.io/Mastering-Blockchain-Scalability/) · [**Download PDF**](https://github.com/neilydhan/Blockchain-Scalability-Book/releases/latest) · [**Cite**](CITATION.cff) · [**Teach this book**](ACADEMIC.md) · [**Contribute**](CONTRIBUTING.md)
+[**Read online**](https://neilydhan.github.io/Mastering-Blockchain-Scalability/) · [**Download PDF**](https://github.com/neilydhan/Mastering-Blockchain-Scalability/releases/latest) · [**Cite**](CITATION.cff) · [**Teach this book**](ACADEMIC.md) · [**Contribute**](CONTRIBUTING.md)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22257267.svg)](https://doi.org/10.5281/zenodo.22257267)
 
@@ -31,9 +31,9 @@ It is not a beginner's introduction to cryptocurrency trading or Web3 applicatio
 
 The current public edition is **v1.1.1**. Its release contains a 420-page PDF, browsable HTML archive, build manifest, and SHA-256 checksums.
 
-- [Latest release and downloads](https://github.com/neilydhan/Blockchain-Scalability-Book/releases/latest)
-- [Version history](https://github.com/neilydhan/Blockchain-Scalability-Book/releases)
-- [Source for v1.1.1](https://github.com/neilydhan/Blockchain-Scalability-Book/tree/v1.1.1)
+- [Latest release and downloads](https://github.com/neilydhan/Mastering-Blockchain-Scalability/releases/latest)
+- [Version history](https://github.com/neilydhan/Mastering-Blockchain-Scalability/releases)
+- [Source for v1.1.1](https://github.com/neilydhan/Mastering-Blockchain-Scalability/tree/v1.1.1)
 - [Preface and Chapter 1 sample](SAMPLE.md)
 
 Use the latest-release link when you want the newest edition. Use a version-specific release when citing or reproducing a result.
@@ -81,7 +81,7 @@ See the [Publishing Guide](PUBLISHING.md) for the release and visual-review gate
 
 ## Contribute
 
-Corrections, reproducible measurements, primary-source updates, original diagrams, and implementation experience are welcome. Read [`CONTRIBUTING.md`](CONTRIBUTING.md), choose a chapter from [`SUMMARY.md`](SUMMARY.md), and submit a pull request. Use [GitHub Issues](https://github.com/neilydhan/Blockchain-Scalability-Book/issues) for a specific correction or proposal.
+Corrections, reproducible measurements, primary-source updates, original diagrams, and implementation experience are welcome. Read [`CONTRIBUTING.md`](CONTRIBUTING.md), choose a chapter from [`SUMMARY.md`](SUMMARY.md), and submit a pull request. Use [GitHub Issues](https://github.com/neilydhan/Mastering-Blockchain-Scalability/issues) for a specific correction or proposal.
 
 This is a living technical book. Protocols and roadmaps change, so every claim about a deployed system should carry a source and a date.
 
