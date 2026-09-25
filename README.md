@@ -29,11 +29,11 @@ It is not a beginner's introduction to cryptocurrency trading or Web3 applicatio
 
 ## Current Edition
 
-The current public edition is **v1.1.1**. Its release contains a 420-page PDF, browsable HTML archive, build manifest, and SHA-256 checksums.
+The current public edition is **v1.1.3**. Its release contains a 420-page PDF, browsable HTML archive, build manifest, and SHA-256 checksums.
 
 - [Latest release and downloads](https://github.com/neilydhan/Mastering-Blockchain-Scalability/releases/latest)
 - [Version history](https://github.com/neilydhan/Mastering-Blockchain-Scalability/releases)
-- [Source for v1.1.1](https://github.com/neilydhan/Mastering-Blockchain-Scalability/tree/v1.1.1)
+- [Source for v1.1.3](https://github.com/neilydhan/Mastering-Blockchain-Scalability/tree/v1.1.3)
 - [Preface and Chapter 1 sample](SAMPLE.md)
 
 Use the latest-release link when you want the newest edition. Use a version-specific release when citing or reproducing a result.
